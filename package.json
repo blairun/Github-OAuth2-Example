@@ -1,0 +1,22 @@
+{
+  "name": "oauth-authorization-code-example",
+  "version": "1.0.0",
+  "description": "GitHub OAuth authorization code flow example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "terminal": "node index.js",
+    "browser": "node scripts/browser.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16"
+  },
+  "dependencies": {
+    "axios": "^0.18.1",
+    "simple-oauth2": "^1.5.2",
+    "dotenv": "^8.2.0"
+  }
+}
