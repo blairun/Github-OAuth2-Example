@@ -13,5 +13,7 @@ This is an example node application that implements Githubs OAuth2 API.
 5. Browse to http://localhost:3000
 
 reference:
+
 https://github.com/sohamkamani/node-oauth-example
+
 https://github.com/lichess-org/api/tree/master/example/oauth-authorization-code
